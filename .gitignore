@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/helloworld/.vs/helloworld/v15
+/helloworld/Debug
+/helloworld/x64/Debug
